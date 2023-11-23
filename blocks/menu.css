@@ -1,0 +1,33 @@
+.menu {
+  background-color: white;
+  background-image: url(../images/background_menu.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 100px 0;
+
+}
+
+.menu__title {
+  font-family: "Inter";
+font-style: normal;
+font-weight: 500;
+font-size: 44px;
+line-height: 52px;
+max-width: 800px;
+margin: 0 auto;
+margin-bottom: 24px;
+text-align: center;
+}
+
+.menu__subtitle {
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  max-width: 800px;
+  margin: 0 auto;
+  margin-bottom: 100px;
+  text-align: center;
+}
