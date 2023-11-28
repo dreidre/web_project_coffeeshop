@@ -1,9 +1,4 @@
-.menu__cards {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 100px;
-  justify-content: center;
-}
+
 
 .card__title {
   font-family: "Inter";
